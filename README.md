@@ -47,6 +47,14 @@ A aplicação estará disponível em `http://localhost:5173`
 npm run build
 ```
 
+### Links
+
+| Ambiente     |  URL                            |
+| ---          |  ---                            |
+| Local        |  http://localhost:5173         |               
+| Produção     |https://azs-web-rickandmorty-gamma.vercel.app/   | 
+
+
 ## 📁 Estrutura do Projeto
 
 ```
@@ -77,4 +85,14 @@ src/
 
 ## 📱 Screenshots
 
-[]
+![image](https://github.com/user-attachments/assets/bfbe14ce-f306-4f16-8f7f-cfbe70ec0de9)
+![image](https://github.com/user-attachments/assets/2444ca41-89c7-4604-8d1a-e58a3452d6e3)
+![image](https://github.com/user-attachments/assets/ec49fb52-bd4b-4df9-9476-1bb694bd90e6)
+![image](https://github.com/user-attachments/assets/19715308-b118-40ee-a23f-4394ffc5bd4b)
+![image](https://github.com/user-attachments/assets/938c48e2-402b-45d8-aaeb-fd8ae50ee17d)
+![image](https://github.com/user-attachments/assets/3b968e98-945a-4721-a9b3-cd04b90814cd)
+![image](https://github.com/user-attachments/assets/ac2299f1-d008-4617-9cfa-43dc255651be)
+![image](https://github.com/user-attachments/assets/2e34ca6e-3502-462e-8244-931edb50f81c)
+
+
+
