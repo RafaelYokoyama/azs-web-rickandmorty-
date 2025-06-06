@@ -25,9 +25,5 @@ export const router = createBrowserRouter([
       </Suspense>
     ),
     errorElement: <NotFound />
-  },
-  {
-    path: '*',
-    element: <Navigate to={ROUTES.HOME} replace />
   }
 ])
