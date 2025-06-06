@@ -57,13 +57,15 @@ export const EpisodeDetailsModal = ({
         ) : (
           <>
             <DialogHeader>
-              <DialogTitle className='flex items-center justify-between'>
+              <DialogTitle className='md:flex md:items-center md:justify-between'>
                 <div className='flex-1'>
-                  <div className='flex items-center gap-3 mb-2'>
+                  <div className='flex md:block md:items-center  gap-3 mb-2'>
                     <Badge variant='secondary' className='font-mono'>
                       {episode.episode}
                     </Badge>
-                    <h2 className='text-2xl font-bold'>{episode.name}</h2>
+                    <h2 className='text-2xl font-bold items-start'>
+                      {episode.name}
+                    </h2>
                   </div>
                   <div className='flex items-center gap-4 text-sm text-muted-foreground'>
                     <div className='flex items-center gap-1'>
